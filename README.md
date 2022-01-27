@@ -7,7 +7,9 @@ Part of the 2nd paragraph
 ## slightly smaller
 *italics*
 **bold**
-### even smaller 
+### picture of my hw
+![my hw](picture.jpeg)
+
 #### Difficulties
 1. difficulty #1
 1. difficulty #2
