@@ -8,7 +8,7 @@ Part of the 2nd paragraph
 *italics*
 **bold**
 ### picture of my hw
-![my hw](picture.jpeg)
+![my hw](35464393)
 
 #### Difficulties
 1. difficulty #1
