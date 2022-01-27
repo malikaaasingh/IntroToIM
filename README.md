@@ -8,4 +8,7 @@ Part of the 2nd paragraph
 *italics*
 **bold**
 ### even smaller 
-#### tiny 
+#### Difficulties
+1. difficulty #1
+1. difficulty #2
+
