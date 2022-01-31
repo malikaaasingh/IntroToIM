@@ -1,0 +1,32 @@
+function setup() {
+  createCanvas (300, 400);
+  background (7, 70, 50);
+  // draw a circle and rect with default colors
+  circle (100,80,60);
+  circle (200,80,60)
+//rect (200,80,10,200);
+  
+  // change the stroke and fill
+  fill(180,0,0)
+  stroke(9,10,10);
+  
+  arc(150, 240, 110, 110, 0, radians(180));
+  arc(50, 45, //centre of the ellipse
+      50, 50, //width and height
+      0, radians(90)); //start and stop angle
+  arc(236, 45, //centre of the ellipse
+      50, 50, //width and height
+      0, radians(90)); //start and stop angle
+  
+  triangle(130,190,170,190,150,130);
+  point(width/2, height/2);
+  
+}
+ 
+function draw(){
+  print (mouseX, mouseY);
+  
+  
+}
+  
+
